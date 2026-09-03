@@ -1,0 +1,17 @@
+{
+  "name": "ai-sdk-programmatic-tool-approval-repro",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "4.0.42",
+    "ai": "7.0.66",
+    "zod": "4.4.3"
+  }
+}
