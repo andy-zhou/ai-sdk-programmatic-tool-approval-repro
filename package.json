@@ -10,8 +10,8 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@ai-sdk/openai": "4.0.42",
-    "ai": "7.0.66",
+    "@ai-sdk/openai": "4.0.57",
+    "ai": "7.0.91",
     "zod": "4.4.3"
   }
 }

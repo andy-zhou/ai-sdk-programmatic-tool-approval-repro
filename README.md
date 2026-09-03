@@ -28,8 +28,8 @@ string that violates the declared `{ secret: string }` output schema.
 
 ## Versions
 
-- `ai@7.0.66`
-- `@ai-sdk/openai@4.0.42`
+- `ai@7.0.91`
+- `@ai-sdk/openai@4.0.57`
 - `gpt-5.6-terra`
 
 [OpenAI Programmatic Tool Calling documentation](https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling)
